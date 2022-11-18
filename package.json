@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/BinPar/ts-next-boilerplate#readme",
   "dependencies": {
-    "next": "^11",
+    "next": "^13",
     "react": "^17",
     "react-dom": "^17"
   },
